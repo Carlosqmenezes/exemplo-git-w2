@@ -1,1 +1,1 @@
-aaaa
+console.log("hello world")
